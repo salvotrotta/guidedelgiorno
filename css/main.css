@@ -1,0 +1,106 @@
+.grad, .navbar, .navbar-brand, .navbar-inverse, .navbar-fixed-top {
+
+  background: rgba(255,0,0,1); /*Standard*/
+}
+
+#titolo {
+    color: white;
+    float: left;
+}
+
+.navbar-inverse, .navbar-toggle {
+        border-color: #fff;
+}
+
+.logo {
+    width: 20px;
+    height: auto;
+    float: left;
+    margin-right: 10px;
+}
+
+.citazioni, .data {
+
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+.primo-blocco-titolo {
+    color: white;
+    background-color: #f0de00;
+    margin-bottom: 0;
+    padding-left: 10px;
+    padding-top: 5px; 
+}
+
+.primo-blocco-testo {
+    background-image: url("../img/texture-giornopergiorno.jpg");
+    background-repeat: repeat-y;
+    padding-left: 25px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-position-x: -96px;
+
+}
+
+.secondo-blocco-titolo {
+
+    color: #532;
+    background-color: #e4c899;
+    margin-bottom: 0;
+    padding-left: 10px;
+    padding-top: 5px; 
+    
+    
+}
+
+.secondo-blocco-testo {
+
+    background-image: url("../img/texture-mappafelicita.gif");
+    background-position-y: -409px;
+    padding-left: 25px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    
+}
+
+
+.pulsanti {
+
+    margin-top: 20px;
+    display: flex;
+    
+}
+
+#row-date {
+
+    vertical-align:middle;
+}
+
+.btn {
+
+    vertical-align:middle;
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
