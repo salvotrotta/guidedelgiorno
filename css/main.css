@@ -1,11 +1,11 @@
-.grad, .navbar, .navbar-brand, .navbar-inverse, .navbar-fixed-top {
-
-  background: rgba(255,0,0,1); /*Standard*/
-}
-
 #titolo {
     color: white;
     float: left;
+}
+
+#row-date {
+
+    vertical-align:middle;
 }
 
 .navbar-inverse, .navbar-toggle {
@@ -40,6 +40,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
     background-position-x: -96px;
+    min-height: 150px;
 
 }
 
@@ -61,10 +62,9 @@
     padding-left: 25px; 
     padding-top: 10px;
     padding-bottom: 10px;
-    
-    
+    min-height: 150px;
+     
 }
-
 
 .pulsanti {
 
@@ -73,14 +73,20 @@
     
 }
 
-#row-date {
-
-    vertical-align:middle;
-}
-
 .btn {
 
     vertical-align:middle;
+
+}
+
+.row {
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.grad, .navbar, .navbar-brand, .navbar-inverse, .navbar-fixed-top {
+
+  background: rgba(255,0,0,1); /*Standard*/
 }
 
 
